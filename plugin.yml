@@ -1,0 +1,85 @@
+name: HDCore
+author: LloydPlayzHD
+version: CoverX-Project-1
+main: eu.lloydplayzhd.hdcore.Main
+commands:
+  speed:
+    description: Gives player the speed effect! 
+  strength:
+    description: Gives player the strength effect!
+  haste:
+    description: Gives player the haste effect!
+  nv:
+    description: Gives player the night vision effect!
+    aliases: [ nightvision ]
+  vanish:
+  cc:
+    description: Clears the chat!
+    aliases: [clearchat]
+  discord:
+    description: This will send you the discord
+  store:
+    description: Gives the player the store URL
+  ts:
+    description: Sends the player the ts IP!
+    aliases: [teamspeak]
+  website:
+    description: Shows server website
+    aliases: [site, forums, web]
+  twitter:
+    description: Shows server twitter
+    aliases: [tweet]
+  fireres:
+    description: Anti Fire
+    aliases: [antifire]
+  hdcore:
+  day:
+    description: Turns time to day
+  trash:
+    aliases: [bin]
+    description: Trash menu
+  heal:
+    description: Heals yah
+  rule:
+    aliases: [rules]
+    description: Shows you the rules
+  feed:
+    aliases: [eat, feedme]
+    description: Feeds ou
+  vote:
+    aliases: [votelinks]
+  survival:
+    aliases: [gms, gamemode survival]
+  creative:
+    aliases: [gmc, gamemode creative]
+  mutechat:
+    description: Mutes the chat!
+  coverx:
+  copyinv:
+    aliases: [copyinventory, invcopy]
+    description: Guess what... It copys the guys inventory! No WAY!
+permissions:
+  speed.use:
+    description: allows player to use /speed
+    default: op
+  strength.use:
+    description: allows player to use /strength
+    default: op
+  nv.use:
+    default: op
+  haste.use:
+    default: op
+  clearchat.use:
+    default: op
+  fireres.use:
+    default: op
+  trash.use:
+    default: op
+  heal.use:
+    default: op
+  feed.use:
+    default: op
+  gamemode.survival:
+    default: op
+  gamemode.creative:
+    default: op

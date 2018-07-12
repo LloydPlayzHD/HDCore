@@ -1,0 +1,88 @@
+# HDCore
+# Made by LloydPlayzHD
+Prefix: '&7[&cCore&7]'
+
+# Command Messages
+Website: '&elloydplayzhd.xyz/SourceCode'
+Discord: '&aJoin Our Discord &bdiscord.gg/SHU7P5p'
+Twitter: '&eTwitter.com/LloydPlayzHD'
+TeamSpeak: '&ets.lloydplayzhd.xyz'
+Store: '&estore.lloydplayzhd.xyz'
+
+# Strength Messages
+StrengthEnable: '&bYou have &aenabled &bthe Strength effect!' 
+StrengthDisable: '&bYou have &cdisabled &bthe Strength effect!'
+
+# Speed Messages
+SpeedEnable: '&bYou have &aenabled &bthe Speed effect!' 
+SpeedDisable: '&bYou have &cdisabled &bthe Speed effect!'
+
+# Haste Messages
+HasteEnable: '&bYou have &aenabled &bthe Haste effect!' 
+HasteDisable: '&bYou have &cdisabled &bthe Haste effect!'
+
+# Nightvisions Messages
+NightVisionEnable: '&bYou have &aenabled &bthe NightVision effect!'
+NightVisionDisable: '&bYou have &cdisabled &bthe NightVision effect!'
+
+# Fire Res Messages
+FireResEnable: '&bYou have &aenabled &bthe Fire Resistance effect!'
+FireResDisable: '&bYou have &cdisabled &bthe Fire Resistance effect!'
+
+# ClearChat Messages
+ClearChatNoPerm: 'You do not have permission to clear the chat!'  
+ClearChatCleared: 'The chat has been cleared by &c%player%'
+
+# Trash Messages 
+TrashTitle: '&eTrash'
+TrashNoPerm: '&cNo perms'
+OpenMessage: '&eThe trash has been opened'
+
+# Shit Messages
+HealNoPerm: '&cNo perm sorry!'
+Heal: '&aYou have healed your self!'
+
+FeedNoPerm: '&cNo perm sorry!'
+Feed: '&aYou have fed your self!'
+
+Day: 'Yah set the time to day'
+Night: 'Yah set the time to night'
+DayNoPerm: '&cYou dont have perms!'
+NightNoPerm: '&cYou dont have perms!'
+
+HDCoreCommand:
+  # /hdcore reload
+  #Permission: hdcore.reload
+  message:
+  - '&7&m------------------------------------'
+  - '&bHDCore fully customizable plugin'
+  - '&bSpigot Link &chttps://tinyurl.com/y8u5f6bo '
+  - '&c'
+  - '&eAuthor &cLloydPlayzHD'
+  - '&eYou are currently using version &c{version} '
+  - '&7&m------------------------------------'
+  ReloadSuccess: '&bSuccessfully reloaded HDCore'
+  ReloadFailed: '&cYou don''t have permissions to reload this plugin'
+# Gamemode Messages
+Survival: '&aYou changed your &cgamemode &ato Survival'
+SurvivalNoPerm: '&cNo perms'
+Creative: '&aYou changed your &cgamemode &ato Creative'
+CreativeNoPerm: '&cNo perms'
+vote:
+  - '&cVote Link 1'
+  - '&cVote Link 2'
+  - '&cVote Link 3'
+  - '&cVote Link 4'
+  - '&eWell.. if you dont want this commands..'
+  - 'Just remove the lines above including this one lol'
+  - 'Unknown command. Type "/help" for help.'
+  - 'thats a fake message if you are ingame btw'
+rules:
+  - '&aRule 1'
+  - '&7Rule 2'
+  - '&6Rule 3'
+  - '&5Rule 4'
+  - '&4Rule 5'
+  - '&3Rule 6'
+  - '&2Rule 7'
+  - '&eRule 8'
