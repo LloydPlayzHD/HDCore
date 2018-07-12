@@ -1,6 +1,6 @@
 name: HDCore
 author: LloydPlayzHD
-version: CoverX-Project-1
+version: 4
 main: eu.lloydplayzhd.hdcore.Main
 commands:
   speed:
